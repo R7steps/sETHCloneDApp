@@ -1,6 +1,26 @@
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/R7steps/SyntheticETHDApp.git
-git branch -M main
-git push -u origin main
+# игнорируем node_modules, .env и другие файлы для проектов с использованием Hardhat
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# Добавленные локальные файлы
+# git init
+# git add .
+# git commit -m "Initial commit"
+# git remote add origin https://github.com/R7steps/SyntheticETHDApp.git
+# git branch -M main
+# git push -u origin main

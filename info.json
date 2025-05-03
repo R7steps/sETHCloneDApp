@@ -1,0 +1,8 @@
+{
+  "symbol": "sETH",               // Символ токена
+  "name": "sETH",                 // Название токена
+  "address": "0xEeCbD49c0Da5c2aA852fD88daFE8e0F91412a070",  // Адрес контракта токена
+  "decimals": 18,                 // Количество десятичных знаков
+  "logoURI": "https://raw.githubusercontent.com/R7steps/sETH-logo/main/sETH-logo.png",  // Прямой URL на логотип
+  "tags": ["stablecoin"]          // Опционально: добавьте теги (например, "stablecoin", "defi" и т.д.)
+}
