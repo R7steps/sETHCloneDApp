@@ -1,0 +1,10 @@
+{
+  "name": "sETH",
+  "symbol": "sETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "chainId": 1,
+  "address": "0xEeCbD49c0Da5c2aA852fD88daFE8e0F91412a070",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEeCbD49c0Da5c2aA852fD88daFE8e0F91412a070/logo.png",
+  "tags": ["stablecoin"]
+}
